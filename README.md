@@ -38,7 +38,7 @@ exit(0);}
 ```
 ## OUTPUT
 ```
--rwxr-xr-x    1 root     root         18348 Apr 17 14:14 file.o
+-rwxr-xr-x    1 root     root         18348 Apr 18 15:17 file.o
 ```
 
 ## 2.To Write a C program that illustrates files locking
@@ -84,7 +84,7 @@ return 0;
 
 ## OUTPUT
 ```
--rwxr-xr-x    1 root     root         18376 Apr 17 14:20 text.o
+-rwxr-xr-x    1 root     root         18376 Apr 18 15:19 text.o
 ```
 
 # RESULT:
